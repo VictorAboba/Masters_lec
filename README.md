@@ -1,2 +1,2 @@
-# Masters_lec
-Materials for lectures
+# Лекционный материал для магистров УРФУ
+
