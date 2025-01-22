@@ -1,2 +1,4 @@
 *Модель доступна для скачивания через google drive*
 url=https://drive.google.com/file/d/1qko3SidcMAhQvWXSqnFshV28vJXB4TJF/view?usp=sharing
+
+Модель надо будет скачать и распаковать в папку с файлом text_classifier.ipynb
